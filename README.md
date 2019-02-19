@@ -1,2 +1,3 @@
 # creator-plugin-example-preview-script
-Plugin example for Cocos Creator: Load external script in web preview
+
+This plugin will hook the web preview server to always load `sdk.js` once you preview in browser.
